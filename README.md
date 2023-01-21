@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-#####![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhin-t.abhin-t)
+#<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhin-t.abhin-t)
 
 <p>Welcome to my page! </br> I'm Abhin, a second year computer science student at the University of Toronto. Programming has been a hobby for me for several years and I love to work on fun side projects in my free time.
 <h3>Things I code with</h3>
@@ -33,5 +33,5 @@ Abhin_Tomar = {
 }
 ```
 
-<h3>Where to find me</h3>
-#####[![Website](https://img.shields.io/badge/Website-abhinsportfolio.netlify.app-informational?style=for-the-badge&color=purple&logo=Google-Chrome&logoColor=white)](https://abhinsportfolio.netlify.app) [![Linkedin](https://img.shields.io/badge/Linkedin-Abhin_Tomar-informational?style=for-the-badge&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhin-tomar-5724a1235/) [![Gmail](https://img.shields.io/badge/Gmail-abhintomar1@gmail.com-informational?style=for-the-badge&color=D14836&logo=gmail&logoColor=white)](mailto:abhintomar1@gmail.com)
+##<h3>Where to find me</h3>
+[![Website](https://img.shields.io/badge/Website-abhinsportfolio.netlify.app-informational?style=for-the-badge&color=purple&logo=Google-Chrome&logoColor=white)](https://abhinsportfolio.netlify.app) [![Linkedin](https://img.shields.io/badge/Linkedin-Abhin_Tomar-informational?style=for-the-badge&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhin-tomar-5724a1235/) [![Gmail](https://img.shields.io/badge/Gmail-abhintomar1@gmail.com-informational?style=for-the-badge&color=D14836&logo=gmail&logoColor=white)](mailto:abhintomar1@gmail.com)
