@@ -32,6 +32,5 @@ Abhin_Tomar = {
 'age': 19
 }
 ```
-###
-<h3>Where to find me</h3>
+##<h3>Where to find me</h3>
 [![Website](https://img.shields.io/badge/Website-abhinsportfolio.netlify.app-informational?style=for-the-badge&color=purple&logo=Google-Chrome&logoColor=white)](https://abhinsportfolio.netlify.app) [![Linkedin](https://img.shields.io/badge/Linkedin-Abhin_Tomar-informational?style=for-the-badge&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhin-tomar-5724a1235/) [![Gmail](https://img.shields.io/badge/Gmail-abhintomar1@gmail.com-informational?style=for-the-badge&color=D14836&logo=gmail&logoColor=white)](mailto:abhintomar1@gmail.com)
