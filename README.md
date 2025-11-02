@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhin-t.abhin-t)
 
-<p>Welcome to my page! </br> I'm Abhin, a third year computer science student at the University of Toronto. Programming has been a hobby for me for several years and I love to work on fun side projects in my free time.
+<p>Welcome to my page! </br> I'm Abhin, a fourth year computer science student at the University of Toronto. Programming has been a hobby for me for several years and I love to work on fun side projects in my free time.
 <h3>Things I code with</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
