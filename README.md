@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhin</h1>
 <h3 align="center">An aspiring software engineer from U of T</h3>
 
-- 👨‍💻 Check out my personal website at [https://abhinsportfolio.netlify.app/](https://abhinsportfolio.netlify.app/)
-
 ###
 
 <div align="left">
@@ -11,6 +9,9 @@
   </a>
   <a href="https://www.linkedin.com/in/abhin-tomar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://abhinsportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=about.me&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
 </div>
 
