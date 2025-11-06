@@ -1,39 +1,36 @@
-# :v: Hey, nice to see you
+<h2 align="left">Hi 👋! I'm Abhin, a CS student at the University of Toronto.</h2>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhin-t.abhin-t)
+###
 
-<p>Welcome to my page! </br> I'm Abhin, a fourth year computer science student at the University of Toronto. Programming has been a hobby for me for several years and I love to work on fun side projects in my free time.
-<h3>Things I code with</h3>
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-    <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+<img align="right" height="150" src="https://made-byshape.files.svdcdn.com/production/uploads/images-archive/Blog/Gifs/coding.gif?dm=1600090887"  />
 
-```python
+###
 
-Abhin_Tomar = {
-'languages': ['Javascript', 'Python', 'Java', 'C', 'HTML', 'CSS'],
-'education': 'University of Toronto',
-'program of study': 'Computer Science Specialist',
-'fun_fact': 'I love playing and watching sports, especially soccer',
-'age': 19
-}
-```
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
 
-### Where to find me
+###
 
-[![Website](https://img.shields.io/badge/Website-abhinsportfolio.netlify.app-informational?style=for-the-badge&color=purple&logo=Google-Chrome&logoColor=white)](https://abhinsportfolio.netlify.app) [![Linkedin](https://img.shields.io/badge/Linkedin-Abhin_Tomar-informational?style=for-the-badge&color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhin-tomar-5724a1235/) [![Gmail](https://img.shields.io/badge/Gmail-abhintomar1@gmail.com-informational?style=for-the-badge&color=D14836&logo=gmail&logoColor=white)](mailto:abhintomar1@gmail.com)
+<div align="left">
+  <a href="abhintomar1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abhin-tomar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
