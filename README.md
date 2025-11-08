@@ -2,39 +2,22 @@
 <h3 align="center">An aspiring software engineer from the University of Toronto</h3>
 
 <p align="center">
-🎓 I'm a 4th-year Computer Science student specializing in Software Engineering at the <b>University of Toronto</b>, graduating in <b>May 2026</b>.<br>
+🎓 I'm a 4th-year Computer Science student at the <b>University of Toronto</b>, graduating in <b>May 2026</b>.<br>
 💼 I recently completed a 16-month co-op at <b>Microchip Technology</b>, where I worked on full-stack development for a custom FPGA IDE.<br>
-💡 I’m passionate about <b>programming, software design, and machine learning</b> — always looking to build efficient, impactful systems.<br>
+💡 I’m passionate about <b>programming, software design, and machine learning</b> — always looking to design clean, maintainable, and impactful software.<br>
 ⚽ In my free time, I enjoy <b>watching and playing sports</b>, especially <b>soccer</b> and <b>tennis</b>.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 I love exploring topics across **backend systems**, **frontend frameworks**, and **ML applications**.  
-- 🧠 Interested in **software engineering**, **AI/ML**, and **developer tooling**.  
-- 🌱 Currently focusing on improving my skills in **system design** and **deep learning frameworks**.  
+- 💻 I love exploring topics across **backend systems**, **frontend frameworks**, and **ML applications**.
+- 🌱 Currently focusing on improving my skills in **system design** and **deep learning frameworks**.
 - 📫 Reach me at **abhintomar1@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/abhin-tomar/).
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhin-tomar&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhin-tomar&layout=compact&theme=github_dark" height="160" />
-</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhin-tomar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://abhinsportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=none&label=&color=00C853&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-  </a>
-</div>
-
-###
+## 💻 Skills & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
