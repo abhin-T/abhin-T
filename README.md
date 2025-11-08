@@ -10,8 +10,6 @@
 📫 Reach me at **abhintomar1@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/abhin-tomar/).
 </p>
 
----
-
 ## 💻 Skills & Technologies
 
 <div align="left">
