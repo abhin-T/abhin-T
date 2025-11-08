@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abhin</h1>
 <h3 align="center">An aspiring software engineer from the University of Toronto</h3>
 
+<p align="center">
+🎓 I'm a 4th-year Computer Science student specializing in Software Engineering at the <b>University of Toronto</b>, graduating in <b>May 2026</b>.<br>
+💼 I recently completed a 16-month co-op at <b>Microchip Technology</b>, where I worked on full-stack development for a custom FPGA IDE.<br>
+💡 I’m passionate about <b>programming, software design, and machine learning</b> — always looking to build efficient, impactful systems.<br>
+⚽ In my free time, I enjoy <b>watching and playing sports</b>, especially <b>soccer</b> and <b>tennis</b>.
+</p>
+
+---
+
+### 🚀 About Me
+- 💻 I love exploring topics across **backend systems**, **frontend frameworks**, and **ML applications**.  
+- 🧠 Interested in **software engineering**, **AI/ML**, and **developer tooling**.  
+- 🌱 Currently focusing on improving my skills in **system design** and **deep learning frameworks**.  
+- 📫 Reach me at **abhintomar1@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/abhin-tomar/).
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhin-tomar&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhin-tomar&layout=compact&theme=github_dark" height="160" />
+</p>
+
 ###
 
 <div align="left">
