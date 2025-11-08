@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhin</h1>
 <h3 align="center">An aspiring software engineer from the University of Toronto</h3>
 
+### 🚀 About Me
 <p align="center">
 🎓 I'm a 4th-year Computer Science student at the <b>University of Toronto</b>, graduating in <b>May 2026</b>.<br>
 💼 I recently completed a 16-month co-op at <b>Microchip Technology</b>, where I worked on full-stack development for a custom FPGA IDE.<br>
-💡 I’m passionate about <b>programming, software design, and machine learning</b> — always looking to design clean, maintainable, and impactful software.<br>
-⚽ In my free time, I enjoy <b>watching and playing sports</b>, especially <b>soccer</b> and <b>tennis</b>.
+💡 I’m passionate about <b>programming, software design, and machine learning</b>.<br>
+⚽ In my free time, I enjoy <b>watching and playing sports</b>, especially <b>soccer</b> and <b>tennis</b>.<br>
+📫 Reach me at **abhintomar1@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/abhin-tomar/).
 </p>
-
----
-
-### 🚀 About Me
-- 💻 I love exploring topics across **backend systems**, **frontend frameworks**, and **ML applications**.
-- 🌱 Currently focusing on improving my skills in **system design** and **deep learning frameworks**.
-- 📫 Reach me at **abhintomar1@gmail.com** or connect on [**LinkedIn**](https://www.linkedin.com/in/abhin-tomar/).
 
 ---
 
